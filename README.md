@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F6FEB,100:7C3AED&text=Sai%20Priya%20Kanuganti&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Web%20Developer&descAlignY=56&descSize=22&animation=fadeIn" alt="Sai Priya Kanuganti, Software Engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F6FEB,100:7C3AED&text=Sai%20Priya%20Kanuganti&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Software%20Engineer&descAlignY=56&descSize=22&animation=fadeIn" alt="Sai Priya Kanuganti, Software Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=React+%26+TypeScript+front+ends;Java+%26+Spring+Boot+services;Event-driven+microservices+on+AWS+and+Azure;4%2B+years+shipping+production+software" alt="Typing animation of core skills" />
 
@@ -41,15 +41,15 @@ I build React front ends, Spring Boot and Node.js services, and the CI/CD pipeli
 
 <h2 align="center">About me</h2>
 
-I'm a full stack developer in New York with 4+ years of experience building web applications, internal analytics tools, and the services behind them. On the front end I mostly use React.js and TypeScript. On the back end it's Java with Spring Boot, plus Python and SQL for data-heavy work.
+I'm a software engineer in New York with 4+ years of experience building web applications, internal analytics tools, and the services behind them. On the front end I mostly use React.js and TypeScript. On the back end it's Java with Spring Boot, plus Python and SQL for data-heavy work.
 
-Right now I'm a Full Stack Engineer at Tiffany & Co., building internal tooling for the High Jewelry team. Before that I worked on payment and tax services at MetLife, and on cloud microservices and healthcare data pipelines at Insight Global.
+Right now I'm a Software Engineer at Tiffany & Co., building internal tooling for the High Jewelry team. Before that I worked on payment and tax services at MetLife, and on cloud microservices and healthcare data pipelines at Insight Global.
 
 I hold an MS in Data Science from the University of New Haven (GPA 3.65), so I'm comfortable on the data side of a project as well as the UI.
 
 ```text
 location   New York, NY
-focus      Full stack web development, REST/GraphQL APIs, microservices
+focus      Web application development, REST/GraphQL APIs, microservices
 education  MS Data Science, University of New Haven
 also use   AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Kafka
 ```
@@ -241,7 +241,7 @@ also use   AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Kafka
 
 <div align="center">
 
-If you're hiring for a full stack or software engineering role, email is the fastest way to reach me.
+If you're hiring for a software engineering role, email is the fastest way to reach me.
 
 <br /><br />
 
@@ -255,7 +255,7 @@ If you're hiring for a full stack or software engineering role, email is the fas
 
 <div align="center">
 
-<sub>Sai Priya Kanuganti &nbsp;|&nbsp; Full Stack Web Developer &nbsp;|&nbsp; New York, USA</sub>
+<sub>Sai Priya Kanuganti &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; New York, USA</sub>
 
 <br />
 
